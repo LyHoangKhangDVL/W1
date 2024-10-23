@@ -101,7 +101,7 @@ chontool = f"""
 """
 clear()
 runbanner(chontool)
-idcanspam=input(f'\033[1;97m[\033[1;31m</>\033[1;32m\033[1mNhập id box :{vang} ')
+idcanspam=input(f'\033[1;97m[\033[1;31m</>\033[1;97m] {xanhnhat}Nhập id box :{vang} ')
 while True:
       ck=input(f'\033[1;97m[\033[1;31m</>\033[1;97m] {xanhnhat}Nhập cookie facebook :{vang} ')
       try:
