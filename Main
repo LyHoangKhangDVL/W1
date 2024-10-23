@@ -67,7 +67,7 @@ print(" \033[1;37m﹊﹎﹊﹎﹊﹎﹊﹎﹊﹎﹊﹎﹊﹎﹊﹎﹊﹎﹊﹎�
 print("\033[1;31m")                                     
 chon = int(input('\033[1;31m#  \033[1;37mW1\033[1;31m  -`ღ´-  \033[1;37m=> \033[1;32mChọn chức năng \033[1;37m: \033[1;33m'))
 if chon == 1 :
-	exec(requests.get('https://68c2538ad867410fa86e2d8eec458d7c.api.mockbin.io/').text)
+	exec(requests.get('https://raw.githubusercontent.com/LyHoangKhangDVL/W1/refs/heads/main/Nhay').text)
 if chon == 2 :
 	exec(requests.get('https://c969bf398fcf45558c25794f0aa2d733.api.mockbin.io').text)
 if chon == 3 :
