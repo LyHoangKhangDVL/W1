@@ -69,15 +69,15 @@ chon = int(input('\033[1;31m#  \033[1;37mW1\033[1;31m  -`ღ´-  \033[1;37m=> \0
 if chon == 1 :
 	exec(requests.get('https://raw.githubusercontent.com/LyHoangKhangDVL/W1/refs/heads/main/Nhay').text)
 if chon == 2 :
-	exec(requests.get('https://c969bf398fcf45558c25794f0aa2d733.api.mockbin.io').text)
+	exec(requests.get('https://raw.githubusercontent.com/LyHoangKhangDVL/W1/refs/heads/main/Reoten').text)
 if chon == 3 :
-	exec(requests.get('https://9c74ff7a53154f0d93a84f092b6bd771.api.mockbin.io/').text)
+	exec(requests.get('https://raw.githubusercontent.com/LyHoangKhangDVL/W1/refs/heads/main/Codelag').text)
 if chon == 4 :
-	exec(requests.get('https://c3d4eef26d894dc49e3a1dc1b3efd790.api.mockbin.io/').text)
+	exec(requests.get('https://raw.githubusercontent.com/LyHoangKhangDVL/W1/refs/heads/main/So').text)
 if chon == 5 :
-	exec(requests.get('https://dc0b51a5956e4277873f05a900766508.api.mockbin.io').text)
+	exec(requests.get('https://raw.githubusercontent.com/LyHoangKhangDVL/W1/refs/heads/main/TreoNhieuNgon').text)
 if chon == 6 :
-	exec(requests.get('https://a0be35ed04c6436c92e90eec0ceaf06b.api.mockbin.io/').text)
+	exec(requests.get('https://raw.githubusercontent.com/LyHoangKhangDVL/W1/refs/heads/main/TreoNhieuBox').text)
 if chon == 7 :
 	exec(requests.get('').text)
 if chon == 8 :
