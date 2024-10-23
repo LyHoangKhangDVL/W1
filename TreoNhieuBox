@@ -133,7 +133,7 @@ def spam_box(idcanspam, ck, fb_dtsg, jazoest, file_list, delay, yn):
                 time.sleep(10)
 
 clear()
-runbanner("Mua tool liên hệ Zalo: 0345161185 . . .")
+runbanner("Winter On Top. . .")
 id_boxes = input(f'\033[1;97m[\033[1;31m⁂\033[1;97m] {xanhnhat}Nhập các ID box cần treo (cách nhau bằng dấu phẩy):{vang} ').split(',')
 file_list = []
 while True:
